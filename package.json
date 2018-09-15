@@ -1,8 +1,8 @@
 {
-  "name": "constactmanager",
+  "name": "contactmanager",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https:/Adiis.github.io/contactmanager",
+  "homepage": "https://adiis.github.io/contactmanager/",
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.1.3",
