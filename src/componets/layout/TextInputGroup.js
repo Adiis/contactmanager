@@ -29,14 +29,14 @@ const TextInputGroup = ({
   );
 };
 
-TextInputGroup.PropTypes = {
+TextInputGroup.propTypes = {
   name: PropTypes.string.isRequired,
   placeholder: PropTypes.string.isRequired,
-  lable: PropTypes.string.isRequired,
+  label: PropTypes.string.isRequired,
   value: PropTypes.string.isRequired,
   type: PropTypes.string.isRequired,
   onChange: PropTypes.func.isRequired,
-  error: PropTypes.string.isRequired
+  error: PropTypes.string
 };
 
 TextInputGroup.defaultProps = {
